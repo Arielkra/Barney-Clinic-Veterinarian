@@ -1,0 +1,345 @@
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\תיקון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\אריאל\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojResolveAssemblyReference.cache
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.Cache
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\גיא כהן\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\Ariel&Neta\Dropbox\פרוייקט גמר -ביצוע\הפרוייקט\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojResolveAssemblyReference.cache
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.Cache
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\גיא כהן\Desktop\גיא\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+D:\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+C:\Users\owner\OneDrive\שולחן העבודה\פרוייקט ניסויים\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+D:\פרוייקט ניסויים 2\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+C:\Users\owner\OneDrive\שולחן העבודה\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\סקיצות עיצוב לפרוייקט\סקיצה 1\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.ResolveComReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.ResolveComReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.ResolveComReference.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\לפי קוד אלון\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.ResolveComReference.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט גמר אריאל גיא\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe.config
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Management of a veterinary clinic.pdb
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\BouncyCastle.Crypto.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\itextsharp.xml
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\bin\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Interop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.ResolveComReference.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DoctorMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.DrugsVaccines.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Lgoin_ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.login.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.ManagerSystem.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.SecretaryMenu.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.startM.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management_of_a_veterinary_clinic.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.csproj.CopyComplete
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.exe
+d:\Users\Ariel&Neta\Desktop\פרוייקט ניסויים מתקדם עם הערות\Management of a veterinary clinic\Management of a veterinary clinic\obj\Debug\Management of a veterinary clinic.pdb

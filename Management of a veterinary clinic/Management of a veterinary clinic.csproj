@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8DA98936-B5D9-4CD7-8E0F-1A4D4F4D65E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Management_of_a_veterinary_clinic</RootNamespace>
+    <AssemblyName>Management of a veterinary clinic</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Access\Access.cs" />
+    <Compile Include="Access\mailSender.cs" />
+    <Compile Include="Access_Actions.cs" />
+    <Compile Include="DoctorMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorMenu.Designer.cs">
+      <DependentUpon>DoctorMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrugsVaccines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrugsVaccines.Designer.cs">
+      <DependentUpon>DrugsVaccines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lgoin ManagerSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lgoin ManagerSystem.Designer.cs">
+      <DependentUpon>Lgoin ManagerSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerSystem.Designer.cs">
+      <DependentUpon>ManagerSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SecretaryMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecretaryMenu.Designer.cs">
+      <DependentUpon>SecretaryMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Access\SQL_Col.cs" />
+    <Compile Include="Access\SQL_Condition.cs" />
+    <Compile Include="Access\SQL_Queries.cs" />
+    <Compile Include="Access\SQL_Row.cs" />
+    <Compile Include="start menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="start menu.Designer.cs">
+      <DependentUpon>start menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DoctorMenu.resx">
+      <DependentUpon>DoctorMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrugsVaccines.resx">
+      <DependentUpon>DrugsVaccines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lgoin ManagerSystem.resx">
+      <DependentUpon>Lgoin ManagerSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerSystem.resx">
+      <DependentUpon>ManagerSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecretaryMenu.resx">
+      <DependentUpon>SecretaryMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="start menu.resx">
+      <DependentUpon>start menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\109232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\depositphotos_120337694-stock-illustration-birds-and-animals-faces-colored.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\Animals-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\dog-cat-logo-template-veterinary_56473-118.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\76ce50711376afc8c792c0208a58c321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\dog-cat-logo-template-veterinary_56473-118.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\הורדה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\259878-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\wellness-icon-300x254.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pict--contact-list-cloud-round-icons-vector-stencils-library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\mail-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\66.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\crud_create_read_update_delete-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\users4_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\png-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\businessman_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\88292-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\74-743256_person-icon-png-followers-instagram-icon-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\wp3123648-veterinary-wallpapers %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\wp2118469-cattle-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pngtree-orange-warm-pet-hospital-background-design-hospitalroomindooradvertising-backgroundbackground-materialpsd-image_64874.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\wp3123607-veterinary-wallpapers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\vet_prescription-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\QNaOMV.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\e04w_ywe8_180426.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\drugs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pngfind.com-drugs-png-845779.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pngfind.com-pie-chart-png-2604880.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\pngfind.com-chart-png-2327693.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pic\QNaOMV2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
